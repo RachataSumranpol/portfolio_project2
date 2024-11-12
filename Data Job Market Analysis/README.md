@@ -64,7 +64,7 @@ df_US = df[df['job_country'] == 'United States']
 
 to find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlight the most popular job titles and their top skills, showing which skills I should pay attention to depending on role I'm targeting.
 
-View my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_Project\2_Skill_Demand.ipynb)
+View my notebook with detailed steps here: [2_Skill_Demand.ipynb](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/2_Skill_Demand.ipynb)
 
 ### Visualize Data
 
@@ -89,7 +89,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](3_Project\Images\skill_demand_all_data_role.png)
+![Visualization of Top Skills for Data Roles](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/skill_demand_all_data_role.png)
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
@@ -102,7 +102,7 @@ plt.show()
 
 to find how skills are trending in 2023 for Data Analysts, I filtered data analyst position and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023
 
-View my notebook with detailed steps here: [3_Skill_Trend.ipynb](3_Project\3_Skills_Trend.ipynb)
+View my notebook with detailed steps here: [3_Skill_Trend.ipynb](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/3_Skills_Trend.ipynb)
 
 ### Visualize Data
 
@@ -134,7 +134,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
 
-View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](3_Project\4_Salary_Analysis.ipynb).
+View my notebook with detailed steps here: [4_Salary_Analysis.ipynb](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/4_Salary_Analysis.ipynb).
 
 ### Visualize Data
 
@@ -183,7 +183,7 @@ Here's the breakdown of the highest paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn (the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
 
-View my notebooks with detailed steps here: [5_Optimal_Skills.ipynb](3_Project\5_Optimal_Skills.ipynb)
+View my notebooks with detailed steps here: [5_Optimal_Skills.ipynb](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 
