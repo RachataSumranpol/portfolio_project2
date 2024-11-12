@@ -90,6 +90,7 @@ plt.show()
 ### Results
 
 ![Visualization of Top Skills for Data Roles](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/skill_demand_all_data_role.png)
+
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
@@ -122,6 +123,7 @@ plt.show()
 ## Results
 
 ![Trending Top Skills for Data Analysts in the US ](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/skill_trends_DA.png)
+
 *Bar graph visualizing the trending top skills for data analyst in the US in 2023.*
 
 ## Insights:
@@ -148,6 +150,7 @@ plt.show()
 ### Results
 
 ![Salary Distributions of Data Jobs in the US](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/Salary_Distributions_of_Data_Jobs_in_the_US.png)
+
 *Box plot visualizing the salary distributions for the top 6 data job titles*
 
 ### Insights
@@ -199,6 +202,7 @@ plt.show()
 ### Results
 
 !['Most_Optimal_skill_for_DA'](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/most_optimal_skill_for_DA.png)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 ### Insights:
@@ -229,6 +233,7 @@ plt.show
 ### Results
 
 ![Most_Demand_Skill_For_DA_With_Coloring_Technology](https://github.com/RachataSumranpol/portfolio_project2/blob/main/Data%20Job%20Market%20Analysis/Image/most_optimal_skill_for_DA_with_coloring_by_technology.png)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in US with color labels for technology*
 
 ### Insights:
